@@ -6,7 +6,7 @@
 #     substring=input("Prompt",i,":")
 #     L.append(substring)
 
-l=['CHEN','U_CH','SNU_']
+l=['CHEN','U_CH','SNU_','ENNA','NAI.','abcd']
 
 def check(s, l, i, c):
     if l[i] in s and l[i] != l[-1]:
